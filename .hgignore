@@ -1,0 +1,20 @@
+# use glob syntax.
+syntax: glob
+
+*.suo
+*~
+*.pdb
+*.cpp
+*.txt
+*.html
+*.msi
+*.manifest
+*.vshost.exe
+
+# switch to regexp syntax.
+syntax: regexp
+Code2Blogger/Code2Blogger/bin/Debug
+Code2Blogger/Code2Blogger/obj
+ConsoleSample.cs
+
+Blogger/bin/Release/Newtonsoft.Json.dll
